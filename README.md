@@ -1,4 +1,4 @@
-Prog.kiev.ua. Java OOP. Группа 59
+Prog.kiev.ua. Java OOP. Группа 62
 ===
 
 ## Cсылки на форум
